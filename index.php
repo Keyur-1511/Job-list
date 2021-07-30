@@ -14,7 +14,7 @@
 </style>
 <body>
 <div class="main">
-    <a href="create.php">NEW USER ADD HERE</a>
+    <a href="job-list/create.php">NEW USER ADD HERE</a>
 </div>
     <table>
         <tr>
